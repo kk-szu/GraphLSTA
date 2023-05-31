@@ -1,4 +1,7 @@
 # GraphLSTA
+This is a PyTorch implementation of GraphLSTA
+
+`model.py`, `block.py` and `layer.py` contain the key code of the GraphLSTA algorithm
 
 ## Requirements
 * PyTorch = 1.7.0
