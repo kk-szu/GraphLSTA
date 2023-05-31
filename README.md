@@ -16,7 +16,7 @@ In `main.py`, you can edit the variable `dataName` and `anomaly_per` to choose t
 
 ## Dataset deatial 
 
-`dataConfig.json` record the hyperparameter Setting of all the datasets
+`dataConfig.json` record the hyperparameter setting of all the datasets
 
 The datasets of this demo include:
 * `UCI` = UCI Message
