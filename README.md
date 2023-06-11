@@ -1,5 +1,5 @@
 # GraphLSTA
-This is a PyTorch implementation of GraphLSTA
+This is a PyTorch implementation of Anomaly Detection in Dynamic Graphs via Long Short-term Temporal Attention Network(GraphLSTA)
 
 `model.py`, `block.py` and `layer.py` contain the key code of the GraphLSTA algorithm
 
